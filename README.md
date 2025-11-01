@@ -12,3 +12,7 @@ Example:
 Will search for hashes with `cafe` starting at position 4 in the hash of static ?a?a?a?a?a?a?a hashcat mask.
 
 `O%m$    : 9411cafec700f797bfbbd1bbdb1a93c1`
+
+**Credits**
+
+https://github.com/epixoip/md5substr
